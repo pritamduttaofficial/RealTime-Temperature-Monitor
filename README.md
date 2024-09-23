@@ -42,7 +42,6 @@ A full-stack application that publishes random temperature data via MQTT, stores
 
 ```bash
 git clone https://github.com/pritamduttaofficial/RealTime-Temperature-Monitor.git
-cd temperature-monitor
 ```
 
 ### 2. Set Up Environment Variables
