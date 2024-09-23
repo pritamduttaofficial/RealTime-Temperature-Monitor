@@ -41,7 +41,7 @@ A full-stack application that publishes random temperature data via MQTT, stores
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/temperature-monitor.git
+git clone https://github.com/pritamduttaofficial/RealTime-Temperature-Monitor.git
 cd temperature-monitor
 ```
 
