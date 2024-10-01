@@ -11,9 +11,9 @@ A full-stack application that publishes random temperature data via MQTT, stores
   - [1. Clone the Repository](#1-clone-the-repository)
   - [2. Set Up Environment Variables](#2-set-up-environment-variables)
   - [3. Spin up the PostgreSQL container with Docker Compose](#3-start-the-postgres-with-docker-compose)
-  - [4. Backend Setup](#2-backend-setup)
-  - [5. Frontend Setup](#3-frontend-setup)
-  - [6. Run the MQTT Publisher](#4-run-the-mqtt-publisher)
+  - [4. Backend Setup](#4-backend-setup)
+  - [5. Frontend Setup](#5-frontend-setup)
+  - [6. Run the MQTT Publisher](#6-run-the-mqtt-publisher)
 
 ## Features
 
